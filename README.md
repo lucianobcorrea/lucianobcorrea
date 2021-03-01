@@ -7,7 +7,7 @@ Back-end e futuramente Full-stack.
 
 <a href="mailto:lucianobalestrincorrea@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white /> </a>
 <a href="https://www.instagram.com/lucianobcorrea/" target="blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.youtube.com/channel/UCrn-cymPNxcGDE7nCjk67uQ" target="blank"><img src ="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"></a>&nbsp;&nbsp; 
+<a href="https://www.youtube.com/channel/UCrn-cymPNxcGDE7nCjk67uQ" target="blank"><img src ="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"></a>
   
 <p align='center'>
   <a ><img src="https://github-readme-stats.vercel.app/api?username=lucianobcorrea&show_icons=true&count_private=true&theme=dark" width="350"></a>

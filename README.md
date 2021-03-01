@@ -23,10 +23,11 @@ Back-end e futuramente Full-stack.
 
 <img align="left" src="https://img.shields.io/badge/%20HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/%20CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/%20JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <br
+<img align="left" src="https://img.shields.io/badge/%20JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp;&nbsp; 
   
 ## PC Specs 🖥️
 
-<img align="left" src="https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+![image](https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
+![image](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+
 

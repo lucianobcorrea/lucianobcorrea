@@ -14,7 +14,7 @@ I'm Luciano Balestrin Corrêa, a Computer Scientist 🎓 and a passionate full-s
 <h2 align="center">My GitHub Stats</h2>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianobcorrea&count_private=true&show_icons=true&bg_color=333333&title_color=a852ff&icon_color=8FFF86&text_color=dddddd" alt="Luciano Correa's GitHub Stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianobcorrea&show_icons=true&bg_color=333333&title_color=8FFF86&icon_color=a852ff&text_color=dddddd&layout=compact&langs_count=6" alt="Luciano Correa's Top Languages">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianobcorrea&count_private=true&show_icons=true&bg_color=333333&title_color=a852ff&icon_color=a852ff&text_color=dddddd" alt="Luciano Correa's GitHub Stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianobcorrea&show_icons=true&bg_color=333333&title_color=a852ff&icon_color=a852ff&text_color=dddddd&layout=compact&langs_count=6" alt="Luciano Correa's Top Languages">
 </div>
 

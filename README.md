@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I'm Luciano Balestrin Corrêa, a Computer Scientist 🎓 and a passionate full-stack developer dedicated to building innovative, scalable, and high-performance solutions. With expertise spanning both front-end and back-end technologies, I strive to create seamless and efficient applications that deliver exceptional user experiences. Committed to continuous learning and improvement, I leverage the latest tools and best practices to drive project success from concept to deployment.
+Full Stack Developer with experience in developing scalable web and mobile applications using Laravel, React, React Native, TypeScript, and Java (Spring Boot). Experienced in end-to-end full stack projects, including REST API architecture, database modeling, SQL performance optimization, legacy system refactoring, and responsive interface development. Proven experience collaborating with multidisciplinary teams in agile environments, contributing from technical definition to the delivery of production-ready features.
 
 <h2 align="center">Find me here 👇🏻</h2>
 

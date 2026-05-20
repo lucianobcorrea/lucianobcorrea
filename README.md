@@ -10,7 +10,7 @@ Full Stack Developer with experience in developing scalable web and mobile appli
 
 <h3>Skills</h3>
 
-<p style="display: flex; gap: 50px; flex-wrap: wrap;">
+<div style="display: flex; gap: 50px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -30,6 +30,6 @@ Full Stack Developer with experience in developing scalable web and mobile appli
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
+</div>
 
 

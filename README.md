@@ -9,6 +9,7 @@ Full Stack Developer with experience in developing scalable web and mobile appli
 </div>
 
 <h3>Skills</h3>
-<img width="100" alt="image" src="https://github.com/user-attachments/assets/7c64954d-2282-46e8-9fbe-853df00327a0" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 

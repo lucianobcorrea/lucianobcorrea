@@ -9,6 +9,6 @@ Full Stack Developer with experience in developing scalable web and mobile appli
 </div>
 
 <h3>Skills</h3>
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 

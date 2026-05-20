@@ -10,7 +10,7 @@ Full Stack Developer with experience in developing scalable web and mobile appli
 
 <h3>Skills</h3>
 
-<p style="display: flex; gap: 15px; flex-wrap: wrap;">
+<p style="display: flex; gap: 50px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />

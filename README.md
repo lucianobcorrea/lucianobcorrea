@@ -9,6 +9,6 @@ Full Stack Developer with experience in developing scalable web and mobile appli
 </div>
 
 <h3>Skills</h3>
-<img width="50" alt="image" src="https://github.com/user-attachments/assets/7c64954d-2282-46e8-9fbe-853df00327a0" />
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/7c64954d-2282-46e8-9fbe-853df00327a0" />
 
 

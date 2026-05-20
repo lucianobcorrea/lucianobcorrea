@@ -3,7 +3,7 @@
 Full Stack Developer with experience in developing scalable web and mobile applications using Laravel, React, React Native, TypeScript, and Java (Spring Boot). Experienced in end-to-end full stack projects, including REST API architecture, database modeling, SQL performance optimization, legacy system refactoring, and responsive interface development. Proven experience collaborating with multidisciplinary teams in agile environments, contributing from technical definition to the delivery of production-ready features.
 
 <h2>Stack</h2>
-<img alt="image" src="https://github.com/user-attachments/assets/47541f2a-80c3-41f2-b67f-1366ac4ff11b" />
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ea7bc2ca-58c5-49a3-ad82-d896ff25082c" />
 
 <h2 align="center">Find me here 👇🏻</h2>
 

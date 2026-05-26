@@ -4,7 +4,6 @@ Full Stack Developer with experience building web and mobile applications using 
 
 <div align="center">
     <a href="mailto:lucianobalestrincorrea@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/> </a>
-    <a href="https://www.instagram.com/lucianobcorrea/" target="blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/lucianobcorrea/" target="blank"><img src ="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 </div>
 

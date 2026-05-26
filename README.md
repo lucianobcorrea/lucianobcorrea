@@ -1,6 +1,6 @@
-# Hello World! 👋
+# Luciano Correa
 
-Full Stack Developer with experience in developing scalable web and mobile applications using Laravel, React, React Native, TypeScript, and Java (Spring Boot). Experienced in end-to-end full stack projects, including REST API architecture, database modeling, SQL performance optimization, legacy system refactoring, and responsive interface development. Proven experience collaborating with multidisciplinary teams in agile environments, contributing from technical definition to the delivery of production-ready features.
+Full Stack Developer with experience building web and mobile applications using Laravel, React, React Native, TypeScript, and Spring Boot. Strong focus on API design, system architecture, performance optimization, and end-to-end product delivery in Agile environments.
 
 <div align="center">
     <a href="mailto:lucianobalestrincorrea@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/> </a>

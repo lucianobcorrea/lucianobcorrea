@@ -21,7 +21,6 @@ Full Stack Developer with experience building web and mobile applications using 
 <p align="left">
   <img src="https://img.shields.io/badge/vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white" style="margin: 5px;" />
 </p>
